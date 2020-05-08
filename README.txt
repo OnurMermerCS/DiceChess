@@ -1,0 +1,1 @@
+All source codes, resources and executables are contained in DiceChess file. There is no need for install, you can play via click on DiceChess.jar file.
